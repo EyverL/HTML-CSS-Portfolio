@@ -11,6 +11,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 72px;
+    size-adjust: 1;
     min-height: 100vh;
     background-color: #FFB532;
     background-image: linear-gradient(to bottom right, #FFB532,#C28820,
@@ -29,5 +30,11 @@ header {
     align-items: center;
     justify-content: space-between;
     gap: 14px;
-    
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 14px;
 }
