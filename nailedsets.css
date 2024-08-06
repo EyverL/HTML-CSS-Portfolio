@@ -1,12 +1,11 @@
-.headerStyling, .classIntroduction {
+.headerStyling, .pageIntroduction {
     background-color:#D9B99B;
-    color:#7F2B0A;
+    color:#A52A2A;
+    font-family: "Zilla Slab", serif;
+    font-weight: 300;
+    font-style: normal;
 }
 
-.nailedsetsLogo {
-    height:200px;
-    width:50px;
-}
 
 
 
