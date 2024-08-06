@@ -22,12 +22,20 @@ a:hover {
   color: #A52A2A;
   background-color: transparent;
   text-decoration: underline;
+  cursor: ;
 }
 
 #webpageLogo {
+  color:#542a0e;
   font-family: "Ewert", serif;
   font-weight: 400;
   font-style: normal;
+}
+
+.nailedsetsLogo {
+  mix-blend-mode: multiply;
+  height: 78px;
+  width: 96px;
 }
 
 #aprilsPortrait {
